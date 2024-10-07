@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+}
+.parent{
+    border: solid;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(252, 250, 250);
+}
+.child{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 25  px;
+    padding-top: 50px;
+}
+#ab{
+    width: 100%;
+    height: 45vh;
+    background-color: rgb(140, 159, 252);
+        display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    padding-left: 45px;
+}
+li{
+    padding: 5px;
+    text-decoration: none;
+    list-style: none;
+}
+#cc{
+    padding-left: 20px;
+    margin-top: -18px;
+}
+p{
+    line-height: 25px;
+}

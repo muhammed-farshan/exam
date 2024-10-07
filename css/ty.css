@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+#head{
+    color: brown;
+}
+/* class */
+.ab
+{
+    color: bisque;
+    font-size: 35px;
+    text-align: center;
+}
+/* universal selector */
+*{
+    text-align: center;
+}
+h2,h4{
+    text-align: right;
+}
+div p{
+    color: aqua;
+}
+
+div>h1{
+    
+color: aqua;
+}
+div~h1{
+    color:rgb(17, 175, 88);
+}
+div+h4{
+    background-color: brown;
+}

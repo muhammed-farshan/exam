@@ -1,0 +1,17 @@
+.child{
+    width: 300px;
+    height: 200px;
+    border: solid;
+}
+img{
+    width: 100%;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: solid;
+    height: 600px;
+    align-items: center;
+    flex-wrap: wrap;
+}

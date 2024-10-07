@@ -1,0 +1,27 @@
+.child{
+    border: solid;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+    position: absolute;
+    top: 0px;
+}
+.img{
+    width: 100%;
+}
+.parent{
+    position: relative;
+}
+#frt{
+    z-index: 1;
+    margin-left: 350px;
+}
+#thrd{
+    margin-left: 690px;
+}
+#ab{
+    background-color: bisque;
+    position: sticky;
+    top: 0px;
+}

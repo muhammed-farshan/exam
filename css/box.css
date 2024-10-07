@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+}
+h1{
+    border: solid;
+    padding: 25px;
+/* margin:15px 20px 25px 35px; */
+ /* margin: 35px 25px; */
+ margin-top: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+ margin-left: 10px;
+}
+a{
+    border: solid;
+    /* margin: 30px; */
+    /* inline element does not padding bcz it overlapied */
+     /* padding: 50px; */
+}

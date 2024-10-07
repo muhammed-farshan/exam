@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+}
+.parent{
+    border: solid;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.ab{
+    border: solid;
+    width: 200px;
+    height: 450px;
+    position: absolute;
+    top: 0px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+#second{
+    margin-left: 670px;
+    margin-top: 250px;
+}
+#thrd{
+    margin-left: 950px;
+    margin-top: 150px;
+}
+#frst{
+margin-left: 390px;
+margin-top: 150px;
+}
+.cd{
+width: 100%;
+border: solid;
+height: 100vh;
+}
+#head{
+padding-left: 650px;
+padding-top: 150px;
+font-size: x-large;
+z-index: 1;
+}

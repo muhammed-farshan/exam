@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inria Sans", sans-serif;
+    box-sizing: border-box;
+}
+#container{
+    width: 100%;
+    height: 100vh;
+    /* position: relative; */
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background: #4f4d4d;
+}
+.img{
+    width: 5%;
+}
+.listiteams{
+    display: inline;
+padding: 15px;
+}
+.list{
+    color:white ;
+    font-weight: 600;
+    text-decoration: none;
+}
+.search{
+    padding-right: 10px;
+}
+.heading{
+text-align: center;
+background-color:#4f4d4d ;
+padding-top:10px;
+}
+h2{
+    color: white;
+    font-weight:600 ;
+}
+h3{
+    color: white;
+padding-top: 10px; 
+font-family: "Dancing Script", system-ui;
+font-size: larger;
+padding-bottom: 45px;
+}
+.pic{
+    padding: 15px;
+    width: 450px;
+    height: 450px;
+    margin-left: 25px;
+}
+.image{
+width: 100%;
+}
+.pictures{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 15px;
+}
+#sectn{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-around;
+    background-color:#363535 ;
+
+}
+.logocontents{
+    width: 20%;
+    margin-left: .5rem;
+}
+h1{
+         color: white;
+         padding-top: 15px;
+
+}
+#para{
+    margin-top: 10px;
+    line-height: 25px;
+    text-align: justify;
+    margin-bottom: 15px;
+    color: white;
+}
+.infoboxs{
+    margin-top: 15px;
+    color: white;
+
+}
+.infoboxs>span{
+    padding: 10px;
+}
+#recentposts{
+    width: 20%;
+}
+#head2{
+    color: white;
+    font-size: large;
+}
+.spn{
+    font-size: 18px;
+    margin-top: 25px;
+    line-height: 50px;
+    color: white;
+
+}
+.instapics{
+    width: 20%;
+    position:relative;
+}
+.simg{
+    width: 12%;
+    position: absolute;
+}
+#pic2{
+    padding-left: 13%; ;
+}
+#pic3{
+    padding-left:26.6% ;
+}
+#pic4{
+    padding-left:39.5% ;
+}
+#pic5{
+    margin-top:19% ;
+}
+#pic6{
+    margin-top:19% ;
+    padding-left: 13%; ;
+}
+#pic7{
+    margin-top:19% ;
+    padding-left:26.6% ;
+}
+#pic8{
+    margin-top:19% ;
+    padding-left:39.5% ;
+
+}
+.inpics{
+    width: 25px;
+}
+.twitterfeed{
+    width: 20%;
+}
+#head2{
+    padding-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+
+}
+#para2{
+    line-height: 25px;
+    color: white;
+
+}
